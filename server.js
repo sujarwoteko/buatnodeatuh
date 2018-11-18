@@ -1,0 +1,1 @@
+console.log('yow basmi silumans \n\n lalu pada suatu hari datang seekor kura-kura dan kancil \n\n kancilnya bisa terbang')
